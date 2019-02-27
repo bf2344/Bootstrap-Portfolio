@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-image: url("https://assets.awwwards.com/awards/images/2015/04/pattern.jpg");
+    background-size: 1440px 800px;
+    background-repeat:no-repeat;
+    display: compact;
+    font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navbar-brand {
+padding-left: 150px;
+height: 50px;
+}
+
+
+.container-fluid{
+Padding-left: 150px;
+margin: 0 auto;
+background-color: white;
+}
+
+.wrapper{
+    padding-left: 50px;
+    background-color: white;
+}
+
+
+p{
+    padding-left: 75px;
+}
+
+footer{
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+}
